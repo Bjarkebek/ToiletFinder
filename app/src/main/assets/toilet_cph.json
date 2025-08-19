@@ -1,0 +1,5385 @@
+{
+  "type":"FeatureCollection",
+  "features":[
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.1",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.59931787,
+          55.69034313
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":1,
+        "toilet_lokalitet":"Ved Hvidtfeldtmonumentet",
+        "vejnavn_husnummer":"Langelinie 25",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":726218.9089120222,
+        "utm_y":6177488.843074478,
+        "longitude":12.599317874493394,
+        "latitude":55.69034309428585
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.2",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.64058687,
+          55.65125046
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":2,
+        "toilet_lokalitet":"",
+        "vejnavn_husnummer":"Amager Strandvej 219",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Standardtoilet Zenzo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Amager Øst",
+        "utm_x":729039.8478509297,
+        "utm_y":6173276.84447184,
+        "longitude":12.640586866907821,
+        "latitude":55.65125042874001
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.3",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.63884305,
+          55.64888277
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":3,
+        "toilet_lokalitet":"Kastrup Fort",
+        "vejnavn_husnummer":"Amager Strandvej 244",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Øst",
+        "utm_x":728944.0182142481,
+        "utm_y":6173007.776722389,
+        "longitude":12.638843053807562,
+        "latitude":55.648882741513376
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.4",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.63244831,
+          55.66195622
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":4,
+        "toilet_lokalitet":"Amager Strandpark",
+        "vejnavn_husnummer":"Amager Strandvej 55",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Øst",
+        "utm_x":728465.6713531507,
+        "utm_y":6174440.574269796,
+        "longitude":12.632448308352,
+        "latitude":55.661956182329334
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.5",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57935193,
+          55.67881727
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":5,
+        "toilet_lokalitet":"Amagertorv",
+        "vejnavn_husnummer":"Amagertorv 1F",
+        "postnummer":"1160 København K",
+        "toilet_betegnelse":"Toilet med personale",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":725030.8626591702,
+        "utm_y":6176142.037229471,
+        "longitude":12.579351926895754,
+        "latitude":55.67881723817106
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.6",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.54836404,
+          55.70130666
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":6,
+        "toilet_lokalitet":"Balders Plads",
+        "vejnavn_husnummer":"Baldersgade 60",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":722955.4839306108,
+        "utm_y":6178543.004378438,
+        "longitude":12.548364043449476,
+        "latitude":55.70130662837716
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.7",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56457404,
+          55.68037453
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":7,
+        "toilet_lokalitet":"Ørstedsparken",
+        "vejnavn_husnummer":"Nørre Farimagsgade 2A",
+        "postnummer":"1364 København K",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":724093.3170540187,
+        "utm_y":6176267.348900559,
+        "longitude":12.564574038721354,
+        "latitude":55.68037449798195
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.8",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.55699773,
+          55.68625364
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":8,
+        "toilet_lokalitet":"Blågårds Plads",
+        "vejnavn_husnummer":"Blågårds Plads 5B",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Pissoir",
+        "toilettype_design":"Pissoir (fritstående)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":723583.673677293,
+        "utm_y":6176896.717057,
+        "longitude":12.556997730996118,
+        "latitude":55.68625361006792
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.9",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.58373004,
+          55.68212317
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":9,
+        "toilet_lokalitet":"Borgergade",
+        "vejnavn_husnummer":"Borgergade 1F",
+        "postnummer":"1300 København K",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Standardtoilet Zenzo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift;TagetPermanentUdAfDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":725286.9628836061,
+        "utm_y":6176523.915602545,
+        "longitude":12.583730044320063,
+        "latitude":55.682123141861666
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.10",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57368016,
+          55.67925274
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":10,
+        "toilet_lokalitet":"Vor Frue Plads",
+        "vejnavn_husnummer":"Dyrkøb 2",
+        "postnummer":"1165 København K",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"AFA søjle",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"AFA JC Decaux",
+        "driftsbydel":"Indre By",
+        "utm_x":724671.9540628092,
+        "utm_y":6176172.068270362,
+        "longitude":12.57368015734552,
+        "latitude":55.67925270407701
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.11",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.58419923,
+          55.69243471
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":11,
+        "toilet_lokalitet":"Østre Anlæg, Huset",
+        "vejnavn_husnummer":"Stockholmsgade 62",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":725257.1128675183,
+        "utm_y":6177672.208902132,
+        "longitude":12.58419922824397,
+        "latitude":55.69243467725582
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.12",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.52948998,
+          55.72301257
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":12,
+        "toilet_lokalitet":"Emdrup Torv",
+        "vejnavn_husnummer":"Emdrupvej 185",
+        "postnummer":"2400 København NV",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Bispebjerg",
+        "utm_x":721647.0937998192,
+        "utm_y":6180896.462689018,
+        "longitude":12.529489983096408,
+        "latitude":55.72301253609815
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.13",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.54527523,
+          55.66709371
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":13,
+        "toilet_lokalitet":"Enghave Plads",
+        "vejnavn_husnummer":"Enghave Plads 13B",
+        "postnummer":"1670 København V",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent;Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Vesterbro-Kgs.Enghave (udl.)",
+        "utm_x":722956.2013460462,
+        "utm_y":6174728.117009455,
+        "longitude":12.545275226286222,
+        "latitude":55.667093678367266
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.14",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.51438562,
+          55.71672558
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":14,
+        "toilet_lokalitet":"Ved Utterslev Friluftskreds",
+        "vejnavn_husnummer":"Engsvinget 46",
+        "postnummer":"2400 København NV",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Brønshøj-Husum (udl.)",
+        "utm_x":720734.4798136983,
+        "utm_y":6180149.033644558,
+        "longitude":12.514385620677333,
+        "latitude":55.716725551556024
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.15",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56954435,
+          55.68433411
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":15,
+        "toilet_lokalitet":"Israels Plads",
+        "vejnavn_husnummer":"Frederiksborggade 21",
+        "postnummer":"1360 København K",
+        "toilet_betegnelse":"Toilet med personale",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":724382.9489430193,
+        "utm_y":6176723.784593004,
+        "longitude":12.569544347580035,
+        "latitude":55.684334078479814
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.16",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57068815,
+          55.70318149
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":16,
+        "toilet_lokalitet":"Fælledparken,  Kiosken",
+        "vejnavn_husnummer":"Per Henrik Lings Allé 5",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":724346.771303202,
+        "utm_y":6178823.558659996,
+        "longitude":12.570688148968083,
+        "latitude":55.70318145829547
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.17",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56128892,
+          55.67057464
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":17,
+        "toilet_lokalitet":"Halmtorvet",
+        "vejnavn_husnummer":"Halmtorvet 12A",
+        "postnummer":"1700 København V",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Vesterbro-Kgs.Enghave (udl.)",
+        "utm_x":723942.9069366986,
+        "utm_y":6175166.857718667,
+        "longitude":12.561288915524003,
+        "latitude":55.67057460914516
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.18",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.5883914,
+          55.67631321
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":18,
+        "toilet_lokalitet":"Havnegade",
+        "vejnavn_husnummer":"Havnegade 20",
+        "postnummer":"1058 København K",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":725613.3191044515,
+        "utm_y":6175892.938818692,
+        "longitude":12.588391398776603,
+        "latitude":55.6763131777621
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.19",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57279594,
+          55.70597558
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":19,
+        "toilet_lokalitet":"Fælledparken, Serridslevvej Syd",
+        "vejnavn_husnummer":"Serridslevvej 15",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":724463.1123119057,
+        "utm_y":6179141.122781573,
+        "longitude":12.572795935844344,
+        "latitude":55.705975543525724
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.20",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57392874,
+          55.66535382
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":20,
+        "toilet_lokalitet":"Islands Brygge ovf nr 37",
+        "vejnavn_husnummer":"Islands Brygge 20B",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Københavner",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Vest",
+        "utm_x":724767.3028245779,
+        "utm_y":6174627.141718721,
+        "longitude":12.573928742014955,
+        "latitude":55.66535379111078
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.21",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56054136,
+          55.67168967
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":21,
+        "toilet_lokalitet":"Maria Kirkeplads",
+        "vejnavn_husnummer":"Istedgade 20",
+        "postnummer":"1650 København V",
+        "toilet_betegnelse":"Pissoir",
+        "toilettype_design":"Pissoir (fritstående)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Vesterbro-Kgs.Enghave (udl.)",
+        "utm_x":723889.5487053876,
+        "utm_y":6175288.448923198,
+        "longitude":12.560541359145423,
+        "latitude":55.67168963874001
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.22",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.4581903,
+          55.71012077
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":22,
+        "toilet_lokalitet":"Kagsmosen",
+        "vejnavn_husnummer":"Kagsvang 31",
+        "postnummer":"2700 Brønshøj",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Brønshøj-Husum (udl.)",
+        "utm_x":717243.1750172661,
+        "utm_y":6179236.868278305,
+        "longitude":12.458190302400078,
+        "latitude":55.71012074097217
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.23",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.6182165,
+          55.65669461
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":23,
+        "toilet_lokalitet":"Kapel i Sundby Kirkegård",
+        "vejnavn_husnummer":"Kastrupvej  53",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Øst",
+        "utm_x":727601.5364787106,
+        "utm_y":6173808.621845789,
+        "longitude":12.618216497440553,
+        "latitude":55.65669457415021
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.24",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57339465,
+          55.66783069
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":24,
+        "toilet_lokalitet":"Bølgen, Kalvebod Brygge",
+        "vejnavn_husnummer":"Kalvebod Brygge 7",
+        "postnummer":"1560 København V",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":724719.5241693493,
+        "utm_y":6174900.868834879,
+        "longitude":12.57339464783637,
+        "latitude":55.66783065978659
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.25",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.55392936,
+          55.68665146
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":25,
+        "toilet_lokalitet":"Tæt på Folkets Park",
+        "vejnavn_husnummer":"Korsgade  58B",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Pissoir",
+        "toilettype_design":"Pissoir (fritstående)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":723388.6243437047,
+        "utm_y":6176931.0663239155,
+        "longitude":12.553929357044863,
+        "latitude":55.686651429344664
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.26",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.60073886,
+          55.70345073
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":26,
+        "toilet_lokalitet":"Yderst på kajen",
+        "vejnavn_husnummer":"Langeliniekaj 61",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":726232.3999007535,
+        "utm_y":6178951.19856838,
+        "longitude":12.60073886286495,
+        "latitude":55.703450694696556
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.27",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.5602285,
+          55.71294506
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":27,
+        "toilet_lokalitet":"Hans Knudsens Plads",
+        "vejnavn_husnummer":"Lyngbyvej 90",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":723634.0842084639,
+        "utm_y":6179875.585569269,
+        "longitude":12.560228497248348,
+        "latitude":55.71294502320626
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.28",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57125307,
+          55.70680754
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":28,
+        "toilet_lokalitet":"Fælledparken, Serridslevvej Nord",
+        "vejnavn_husnummer":"Serridslevvej 35",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":724361.4560520025,
+        "utm_y":6179228.651492056,
+        "longitude":12.57125307149186,
+        "latitude":55.706807509012464
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.29",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.5855636,
+          55.70356485
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":29,
+        "toilet_lokalitet":"Melchiors Plads",
+        "vejnavn_husnummer":"Melchiors Plads 8",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":725278.7453665589,
+        "utm_y":6178914.4514345825,
+        "longitude":12.585563595911992,
+        "latitude":55.70356481301953
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.30",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.52296405,
+          55.7220553
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":30,
+        "toilet_lokalitet":"Moseskellet, Utterslev Mose",
+        "vejnavn_husnummer":"Moseskellet 47",
+        "postnummer":"2400 København NV",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Bispebjerg",
+        "utm_x":721242.8792534318,
+        "utm_y":6180769.141801644,
+        "longitude":12.5229640459525,
+        "latitude":55.72205527090449
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.31",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.50480308,
+          55.71299101
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":31,
+        "toilet_lokalitet":"Mosesvinget",
+        "vejnavn_husnummer":"Mosesvinget 1",
+        "postnummer":"2400 København NV",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Brønshøj-Husum (udl.)",
+        "utm_x":720153.9048713087,
+        "utm_y":6179703.202938585,
+        "longitude":12.504803075898446,
+        "latitude":55.71299097375484
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.32",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.53363249,
+          55.64879808
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":32,
+        "toilet_lokalitet":"Mozarts Plads metrotoilet",
+        "vejnavn_husnummer":"Mozarts Plads 2A",
+        "postnummer":"2450 København SV",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Standardtoilet Zenzo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Vesterbro-Kgs.Enghave",
+        "utm_x":722328.0945618734,
+        "utm_y":6172656.004586422,
+        "longitude":12.533632485339517,
+        "latitude":55.64879805043514
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.33",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.58182075,
+          55.67901113
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":33,
+        "toilet_lokalitet":"Nikolaj Plads",
+        "vejnavn_husnummer":"Nikolaj Plads 10B",
+        "postnummer":"1067 København K",
+        "toilet_betegnelse":"Pissoir",
+        "toilettype_design":"Pissoir (fritstående)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":725184.887248167,
+        "utm_y":6176171.614369948,
+        "longitude":12.581820750801985,
+        "latitude":55.679011098057806
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.34",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.58780986,
+          55.68055121
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":34,
+        "toilet_lokalitet":"Nyhavn",
+        "vejnavn_husnummer":"Nyhavn 1F",
+        "postnummer":"1051 København K",
+        "toilet_betegnelse":"Toilet med personale",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":725552.3664390075,
+        "utm_y":6176362.36177782,
+        "longitude":12.587809855213214,
+        "latitude":55.68055117309999
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.35",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.59100073,
+          55.67955191
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":35,
+        "toilet_lokalitet":"Nyhavnsbroen - Nyhavn 28",
+        "vejnavn_husnummer":"Nyhavn 28",
+        "postnummer":"1051 København K",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":725758.6291213321,
+        "utm_y":6176261.6156605845,
+        "longitude":12.591000725708563,
+        "latitude":55.67955187395775
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.36",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.5539796,
+          55.64646161
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":36,
+        "toilet_lokalitet":"Havnebadet Sluseholmen",
+        "vejnavn_husnummer":"Ben Websters Vej 69",
+        "postnummer":"2450 København SV",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Vesterbro-Kgs.Enghave",
+        "utm_x":723621.0166566434,
+        "utm_y":6172461.583237223,
+        "longitude":12.553979596385679,
+        "latitude":55.64646157795783
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.37",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.59121414,
+          55.67980912
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":37,
+        "toilet_lokalitet":"Nyhavnsbroen - Nyhavn 47C",
+        "vejnavn_husnummer":"Nyhavn 47C",
+        "postnummer":"1051 København K",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":725770.5569768263,
+        "utm_y":6176290.916275879,
+        "longitude":12.591214141594017,
+        "latitude":55.679809090521346
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.38",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57267771,
+          55.6775677
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":38,
+        "toilet_lokalitet":"V. Domhuset",
+        "vejnavn_husnummer":"Nytorv 29A",
+        "postnummer":"1450 København K",
+        "toilet_betegnelse":"Pissoir",
+        "toilettype_design":"Pissoir (fritstående)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":724618.6244932114,
+        "utm_y":6175981.422573396,
+        "longitude":12.57267770782732,
+        "latitude":55.67756767009439
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.39",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.61855887,
+          55.65398374
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":39,
+        "toilet_lokalitet":"Fillipsparken",
+        "vejnavn_husnummer":"Kastrupvej 74",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Øst",
+        "utm_x":727638.8039847873,
+        "utm_y":6173508.269295976,
+        "longitude":12.618558865313691,
+        "latitude":55.65398370539866
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.40",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56237378,
+          55.69900494
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":40,
+        "toilet_lokalitet":"Fælledparken, Bikuben",
+        "vejnavn_husnummer":"Edel Sauntes Allé 1",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":723848.5131815154,
+        "utm_y":6178332.18440797,
+        "longitude":12.56237377643674,
+        "latitude":55.69900490522407
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.41",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.48643284,
+          55.70883973
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":41,
+        "toilet_lokalitet":"Pilesvinget",
+        "vejnavn_husnummer":"Pilesvinget 80",
+        "postnummer":"2700 Brønshøj",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Brønshøj-Husum (udl.)",
+        "utm_x":719023.7426545136,
+        "utm_y":6179183.297950077,
+        "longitude":12.486432843201882,
+        "latitude":55.70883969362458
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.42",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.54283907,
+          55.69499755
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":42,
+        "toilet_lokalitet":"Nørrebroparken",
+        "vejnavn_husnummer":"Stefansgade 24",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":722644.3802367626,
+        "utm_y":6177823.580465981,
+        "longitude":12.54283907209308,
+        "latitude":55.69499751569778
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.43",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.61332563,
+          55.64662188
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":43,
+        "toilet_lokalitet":"Sundbyvester Plads",
+        "vejnavn_husnummer":"Sundbyvester Plads 2A",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Vest",
+        "utm_x":727352.4313445596,
+        "utm_y":6172672.384915937,
+        "longitude":12.613325629261203,
+        "latitude":55.64662184869981
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.44",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56538713,
+          55.70070679
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":44,
+        "toilet_lokalitet":"Fælledparken, Det røde toilet (som er hvidt)",
+        "vejnavn_husnummer":"Edel Sauntes Allé 18",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":724028.031424847,
+        "utm_y":6178531.1901772665,
+        "longitude":12.565387128056704,
+        "latitude":55.700706756584026
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.45",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.55146009,
+          55.66613721
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":45,
+        "toilet_lokalitet":"Sønder Boulevard",
+        "vejnavn_husnummer":"Sønder Boulevard 60B",
+        "postnummer":"1720 København V",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Vesterbro-Kgs.Enghave (udl.)",
+        "utm_x":723350.4269618411,
+        "utm_y":6174641.648438102,
+        "longitude":12.551460085833382,
+        "latitude":55.66613717230606
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.46",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.51757985,
+          55.66184415
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":46,
+        "toilet_lokalitet":"Toftegårds Plads",
+        "vejnavn_husnummer":"Toftegårds Plads 2F",
+        "postnummer":"2500 Valby",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Valby",
+        "utm_x":721244.9223715208,
+        "utm_y":6174055.568606684,
+        "longitude":12.517579848867209,
+        "latitude":55.661844117160626
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.47",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.51740475,
+          55.66230568
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":47,
+        "toilet_lokalitet":"Toftegårds Plads",
+        "vejnavn_husnummer":"Toftegårds Plads 6F",
+        "postnummer":"2500 Valby",
+        "toilet_betegnelse":"Pissoir",
+        "toilettype_design":"Pissoir (fritstående)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Valby",
+        "utm_x":721231.3090060891,
+        "utm_y":6174106.338382313,
+        "longitude":12.517404749600042,
+        "latitude":55.66230564297218
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.48",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57758463,
+          55.69932317
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":48,
+        "toilet_lokalitet":"Trianglen",
+        "vejnavn_husnummer":"Østerbrogade 29B",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet med personale og handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":724802.0351330278,
+        "utm_y":6178416.813397349,
+        "longitude":12.577584629528754,
+        "latitude":55.6993231381943
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.49",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.51700676,
+          55.7100193
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":49,
+        "toilet_lokalitet":"Utterslev Torv",
+        "vejnavn_husnummer":"Utterslev Torv  9",
+        "postnummer":"2400 København NV",
+        "toilet_betegnelse":"Pissoir",
+        "toilettype_design":"Pissoir (fritstående)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Bispebjerg",
+        "utm_x":720936.9092457691,
+        "utm_y":6179411.544955854,
+        "longitude":12.517006759769627,
+        "latitude":55.71001926863581
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.50",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.51429445,
+          55.66614934
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":50,
+        "toilet_lokalitet":"Valby Tingsted",
+        "vejnavn_husnummer":"Valby Tingsted 1B",
+        "postnummer":"2500 Valby",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Valby",
+        "utm_x":721014.0946740812,
+        "utm_y":6174523.890779043,
+        "longitude":12.514294451784664,
+        "latitude":55.66614930273341
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.51",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.58087568,
+          55.6776135
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":51,
+        "toilet_lokalitet":"Ved Stranden",
+        "vejnavn_husnummer":"Ved Stranden 18A",
+        "postnummer":"1061 København K",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Københavner",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":725133.5334339014,
+        "utm_y":6176013.110581387,
+        "longitude":12.580875681012685,
+        "latitude":55.67761346379266
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.52",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.55531332,
+          55.67222489
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":52,
+        "toilet_lokalitet":"Vesterbros Torv",
+        "vejnavn_husnummer":"Vesterbrogade 47F",
+        "postnummer":"1620 København V",
+        "toilet_betegnelse":"Toilet med personale",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Vesterbro-Kgs.Enghave (udl.)",
+        "utm_x":723557.9052839597,
+        "utm_y":6175331.099525865,
+        "longitude":12.555313317734221,
+        "latitude":55.67222485229076
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.53",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.49550011,
+          55.64611556
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":53,
+        "toilet_lokalitet":"Nær Legepladsen i Vigerslevsparken",
+        "vejnavn_husnummer":"Vigerslevvej 346",
+        "postnummer":"2500 Valby",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Valby",
+        "utm_x":719945.0259295765,
+        "utm_y":6172236.066784633,
+        "longitude":12.495500105814294,
+        "latitude":55.6461155288519
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.54",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.58309339,
+          55.63852816
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":54,
+        "toilet_lokalitet":"Metrostation Bella Center",
+        "vejnavn_husnummer":"Ørestads Boulevard 39",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"AFA søjle",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"AFA JC Decaux",
+        "driftsbydel":"Amager Vest",
+        "utm_x":725497.6383192454,
+        "utm_y":6171673.5613661455,
+        "longitude":12.583093389217614,
+        "latitude":55.638528128511226
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.55",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.55498197,
+          55.68727044
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":55,
+        "toilet_lokalitet":"Folkets Park",
+        "vejnavn_husnummer":"Stengade 48",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Cph Urban (sæson eller helårs)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":723451.2250786411,
+        "utm_y":6177003.297535274,
+        "longitude":12.554981973444356,
+        "latitude":55.68727040258456
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.56",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57991234,
+          55.63326541
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":56,
+        "toilet_lokalitet":"Ørestadsparken",
+        "vejnavn_husnummer":"Ørestads Boulevard 66",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Vest",
+        "utm_x":725327.7638070132,
+        "utm_y":6171077.942998014,
+        "longitude":12.579912344804045,
+        "latitude":55.63326538125357
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.57",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.5734167,
+          55.69992365
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":57,
+        "toilet_lokalitet":"Fælledparken, Sansehaven",
+        "vejnavn_husnummer":"Øster Allé 1E",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":724536.8169082837,
+        "utm_y":6178470.081997438,
+        "longitude":12.573416697972876,
+        "latitude":55.69992361779881
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.58",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.4806821,
+          55.69144811
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":58,
+        "toilet_lokalitet":"Elna Munchs Plads",
+        "vejnavn_husnummer":"Elna Munchs Plads 2",
+        "postnummer":"2720 Vanløse",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen;TMF (Kontrakter)",
+        "driftsbydel":"Vanløse",
+        "utm_x":718759.8232008563,
+        "utm_y":6177230.895870401,
+        "longitude":12.480682096634483,
+        "latitude":55.69144808011859
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.59",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.48904112,
+          55.67237673
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":59,
+        "toilet_lokalitet":"Ålholm Plads",
+        "vejnavn_husnummer":"Ålholm Plads 2",
+        "postnummer":"2500 Valby",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"AFA søjle",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"AFA JC Decaux",
+        "driftsbydel":"Valby",
+        "utm_x":719391.7580447491,
+        "utm_y":6175136.26204969,
+        "longitude":12.489041117598642,
+        "latitude":55.672376692636455
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.60",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.58551705,
+          55.68764206
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":60,
+        "toilet_lokalitet":"Nyboder, Gammel Vagt ifm legeplads ubemandet",
+        "vejnavn_husnummer":"Olfert Fischers Gade 40",
+        "postnummer":"1311 København K",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"MidlertidigUdeAfDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":725367.4819513991,
+        "utm_y":6177143.49192143,
+        "longitude":12.585517049597415,
+        "latitude":55.68764202664961
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.61",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57390391,
+          55.68230562
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":61,
+        "toilet_lokalitet":"Kultorvet",
+        "vejnavn_husnummer":"Kultorvet  9B",
+        "postnummer":"1175 København K",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":724668.5005912657,
+        "utm_y":6176512.312389769,
+        "longitude":12.573903910414332,
+        "latitude":55.6823055865407
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.62",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.55649498,
+          55.68641883
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":62,
+        "toilet_lokalitet":"Blågårds Plads",
+        "vejnavn_husnummer":"Blågårds Plads  11",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Københavner",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":723551.1437041326,
+        "utm_y":6176913.4666674035,
+        "longitude":12.556494979077252,
+        "latitude":55.68641879935262
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.63",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57790728,
+          55.71485841
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":63,
+        "toilet_lokalitet":"Sporsløjfen",
+        "vejnavn_husnummer":"Østerbrogade 244",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Københavner",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":724733.0488833418,
+        "utm_y":6180145.575000426,
+        "longitude":12.577907283689006,
+        "latitude":55.71485837232787
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.64",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57430414,
+          55.66522101
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":64,
+        "toilet_lokalitet":"Islands Brygge ovf nr 37",
+        "vejnavn_husnummer":"Islands Brygge 20A",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"AFA søjle",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"AFA JC Decaux",
+        "driftsbydel":"Amager Vest",
+        "utm_x":724791.6625179847,
+        "utm_y":6174613.588133698,
+        "longitude":12.574304138127031,
+        "latitude":55.665220975751154
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.65",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.5954231,
+          55.67510496
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":65,
+        "toilet_lokalitet":"Overgaden Oven Vandet",
+        "vejnavn_husnummer":"Overgaden Oven Vandet 64A",
+        "postnummer":"1415 København K",
+        "toilet_betegnelse":"Pissoir",
+        "toilettype_design":"Pissoir (fritstående)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":726062.1856390228,
+        "utm_y":6175781.475972897,
+        "longitude":12.595423102524531,
+        "latitude":55.67510492615927
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.66",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.5661838,
+          55.68247044
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":66,
+        "toilet_lokalitet":"Ørstedsparken V. Caféen",
+        "vejnavn_husnummer":"Nørre Farimagsgade  6",
+        "postnummer":"1364 København K",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":724182.4718194266,
+        "utm_y":6176505.646072393,
+        "longitude":12.566183797343411,
+        "latitude":55.682470403910905
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.67",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57934751,
+          55.6646486
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":67,
+        "toilet_lokalitet":"Gunløgsgade, Legeplads",
+        "vejnavn_husnummer":"Gunløgsgade 26B",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Vest",
+        "utm_x":725111.983054151,
+        "utm_y":6174566.293121126,
+        "longitude":12.579347505133248,
+        "latitude":55.66464856277285
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.68",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.54135874,
+          55.70472652
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":68,
+        "toilet_lokalitet":"Mimersparken",
+        "vejnavn_husnummer":"Borgmestervangen 51",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"MidlertidigUdeAfDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":722496.0772210078,
+        "utm_y":6178900.8261856865,
+        "longitude":12.54135874264808,
+        "latitude":55.704726491626445
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.69",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.600501,
+          55.66104723
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":69,
+        "toilet_lokalitet":"Kornblomsparken, legeplads",
+        "vejnavn_husnummer":"Øselsgade 5",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"MidlertidigUdeAfDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Amager Vest",
+        "utm_x":726462.5401205719,
+        "utm_y":6174234.669770275,
+        "longitude":12.60050099511812,
+        "latitude":55.661047193947155
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.70",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57656143,
+          55.6982053
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":70,
+        "toilet_lokalitet":"Blegdamsremisen, indendørs legeplads",
+        "vejnavn_husnummer":"Blegdamsvej 132A",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":724744.1910978954,
+        "utm_y":6178289.172880679,
+        "longitude":12.576561434215195,
+        "latitude":55.698205262890504
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.71",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.55727088,
+          55.69231053
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":71,
+        "toilet_lokalitet":"ByOasen legeplads",
+        "vejnavn_husnummer":"Møllegade  25E",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":723566.2464499855,
+        "utm_y":6177571.204910225,
+        "longitude":12.557270884408311,
+        "latitude":55.69231049504094
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.72",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.52186387,
+          55.70478576
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":72,
+        "toilet_lokalitet":"Hulgårds Plads , Legeplads",
+        "vejnavn_husnummer":"Hulgårds Plads 6",
+        "postnummer":"2400 København NV",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Bispebjerg",
+        "utm_x":721271.4858905087,
+        "utm_y":6178844.992802721,
+        "longitude":12.521863866066616,
+        "latitude":55.70478572434276
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.73",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.52492849,
+          55.71061023
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":73,
+        "toilet_lokalitet":"Degnestavnen",
+        "vejnavn_husnummer":"Degnestavnen 20",
+        "postnummer":"2400 København NV",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Bispebjerg",
+        "utm_x":721430.9752015385,
+        "utm_y":6179502.551546395,
+        "longitude":12.524928493672302,
+        "latitude":55.71061019794639
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.74",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56413121,
+          55.70039843
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":74,
+        "toilet_lokalitet":"Fælledparken, Soppesøen",
+        "vejnavn_husnummer":"Edel Sauntes Allé 9",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift;MidlertidigUdeAfDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":723950.9183446663,
+        "utm_y":6178492.837728253,
+        "longitude":12.56413120514405,
+        "latitude":55.7003984022316
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.75",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56988529,
+          55.69737032
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":75,
+        "toilet_lokalitet":"Fælledparken, Tårnlegepladsen",
+        "vejnavn_husnummer":"Frederik V's Vej 4",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":724329.6594770853,
+        "utm_y":6178174.681823831,
+        "longitude":12.569885291594902,
+        "latitude":55.697370283404126
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.76",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.54110699,
+          55.66781668
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":76,
+        "toilet_lokalitet":"Enghaveparken",
+        "vejnavn_husnummer":"Ejderstedgade 3",
+        "postnummer":"1761 København V",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Vesterbro-Kgs.Enghave (udl.)",
+        "utm_x":722690.0813934267,
+        "utm_y":6174795.124519928,
+        "longitude":12.541106994981526,
+        "latitude":55.6678166507067
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.77",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.54919751,
+          55.69987938
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":77,
+        "toilet_lokalitet":"BaNanna Park",
+        "vejnavn_husnummer":"Nannasgade 6",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Københavner",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":723015.9624412893,
+        "utm_y":6178386.95308968,
+        "longitude":12.549197513443934,
+        "latitude":55.699879350420396
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.78",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.49137906,
+          55.6812993
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":78,
+        "toilet_lokalitet":"Legeplads Grøndal Parken ved Langdraget",
+        "vejnavn_husnummer":"Grøndals Parkvej 125",
+        "postnummer":"2720 Vanløse",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Københavner",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Vanløse",
+        "utm_x":719488.700324713,
+        "utm_y":6176135.997547528,
+        "longitude":12.49137905561915,
+        "latitude":55.681299267721904
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.79",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.62758471,
+          55.64954844
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":79,
+        "toilet_lokalitet":"Formosavej 3, Trafiklegeplads",
+        "vejnavn_husnummer":"Formosavej 2",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Københavner",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Øst",
+        "utm_x":728232.1502095351,
+        "utm_y":6173044.690043648,
+        "longitude":12.627584706433517,
+        "latitude":55.64954840430791
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.80",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.54057819,
+          55.66679454
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":80,
+        "toilet_lokalitet":"Enghaveparken",
+        "vejnavn_husnummer":"Ejderstedgade 5",
+        "postnummer":"1761 København V",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Vesterbro-Kgs.Enghave (udl.)",
+        "utm_x":722662.6498473515,
+        "utm_y":6174679.749524241,
+        "longitude":12.54057818827142,
+        "latitude":55.66679450741345
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.81",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.59742416,
+          55.70627878
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":81,
+        "toilet_lokalitet":"Sandkaj, Det Flydende Foreningshus",
+        "vejnavn_husnummer":"Sandkaj 30",
+        "postnummer":"2150 Nordhavn",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":726007.9033333829,
+        "utm_y":6179254.89433171,
+        "longitude":12.597424158347554,
+        "latitude":55.70627874374635
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.82",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.53762621,
+          55.65511291
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":82,
+        "toilet_lokalitet":"Sydhavn Station",
+        "vejnavn_husnummer":"Ernst Kapers Vej 1",
+        "postnummer":"2450 København SV",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Vesterbro-Kgs.Enghave",
+        "utm_x":722543.4083365806,
+        "utm_y":6173371.112975491,
+        "longitude":12.537626214406384,
+        "latitude":55.655112880835624
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.83",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56170397,
+          55.67002812
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":83,
+        "toilet_lokalitet":"Den Brune Kødby",
+        "vejnavn_husnummer":"Halmtorvet 9C",
+        "postnummer":"1700 København V",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Cph Urban (sæson eller helårs)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Vesterbro-Kgs.Enghave (udl.)",
+        "utm_x":723972.1188005928,
+        "utm_y":6175107.418780598,
+        "longitude":12.561703974329237,
+        "latitude":55.67002809193097
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.84",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.54253292,
+          55.68822883
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":84,
+        "toilet_lokalitet":"Nuuks Plads",
+        "vejnavn_husnummer":"Hiort Lorenzens Gade 10",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Københavner",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":722663.6442197219,
+        "utm_y":6177069.819978923,
+        "longitude":12.542532919839655,
+        "latitude":55.688228794227165
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.85",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.49048019,
+          55.65645081
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":85,
+        "toilet_lokalitet":"Kulværket",
+        "vejnavn_husnummer":"Kulbanevej  16",
+        "postnummer":"2500 Valby",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Valby",
+        "utm_x":719571.4179312137,
+        "utm_y":6173369.600433996,
+        "longitude":12.490480189791338,
+        "latitude":55.65645077850741
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.86",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.55152397,
+          55.66998835
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":86,
+        "toilet_lokalitet":"Saxoparken",
+        "vejnavn_husnummer":"Matthæusgade 8",
+        "postnummer":"1666 København V",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Vesterbro-Kgs.Enghave (udl.)",
+        "utm_x":723332.4911493356,
+        "utm_y":6175070.1537126545,
+        "longitude":12.551523968295905,
+        "latitude":55.66998832213041
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.87",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.53805584,
+          55.70113755
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":87,
+        "toilet_lokalitet":"Mimers Plads",
+        "vejnavn_husnummer":"Mimers Plads 14",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Standardtoilet Zenzo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen;TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":722309.0473307671,
+        "utm_y":6178491.081220778,
+        "longitude":12.5380558414094,
+        "latitude":55.70113752175535
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.88",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.5415088,
+          55.69892094
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":88,
+        "toilet_lokalitet":"Nørrebrogade 211",
+        "vejnavn_husnummer":"Nørrebrogade 211",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet med personale",
+        "toilettype_design":"Midlertidigt toilet – Indlejet",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Midlertidigt åbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":null,
+        "driftsbydel":"Nørrebro",
+        "utm_x":722538.512349325,
+        "utm_y":6178255.643963549,
+        "longitude":12.541508800183646,
+        "latitude":55.69892090290702
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.89",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.54878622,
+          55.69344676
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":89,
+        "toilet_lokalitet":"Nørrebros runddel  Metrostation - Graverboligen Assistens Kirkegård",
+        "vejnavn_husnummer":"Nørrebrogade 67",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":723026.7810965828,
+        "utm_y":6177670.232315592,
+        "longitude":12.548786224494913,
+        "latitude":55.69344672239947
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.90",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.52262073,
+          55.63766331
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":90,
+        "toilet_lokalitet":"",
+        "vejnavn_husnummer":"Tudsemindevej 41",
+        "postnummer":"2450 København SV",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Vesterbro-Kgs.Enghave",
+        "utm_x":721698.5101996821,
+        "utm_y":6171382.40658311,
+        "longitude":12.522620730284515,
+        "latitude":55.637663274685686
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.91",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56412393,
+          55.70609213
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":91,
+        "toilet_lokalitet":"Vibenhus Runddel",
+        "vejnavn_husnummer":"Øster Allé 62",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Københavner",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":723917.8784727443,
+        "utm_y":6179126.027955763,
+        "longitude":12.564123930399766,
+        "latitude":55.706092092428584
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.92",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.53328094,
+          55.65448907
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":92,
+        "toilet_lokalitet":"Vester Kirkegård V. Teater",
+        "vejnavn_husnummer":"Sydbanestien 24, Øster kapel (Teater)",
+        "postnummer":"2500 Valby",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Vesterbro-Kgs.Enghave",
+        "utm_x":722273.7209438472,
+        "utm_y":6173287.79476972,
+        "longitude":12.533280939067554,
+        "latitude":55.654489035170556
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.93",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.52507765,
+          55.62289324
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":93,
+        "toilet_lokalitet":"Byskoven/Madpakke Huset",
+        "vejnavn_husnummer":"Selinevej 18",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen;TMF (Kontrakter)",
+        "driftsbydel":"Amager Vest",
+        "utm_x":721936.5907079672,
+        "utm_y":6169747.623307099,
+        "longitude":12.525077649380423,
+        "latitude":55.622893208794274
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.94",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.5555054,
+          55.64421298
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":94,
+        "toilet_lokalitet":"Havneslusen Nord/Grejbanken",
+        "vejnavn_husnummer":"Ved Slusen 8",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Vest",
+        "utm_x":723729.8052653843,
+        "utm_y":6172216.428127896,
+        "longitude":12.555505397630135,
+        "latitude":55.64421295041069
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.95",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57489413,
+          55.66601498
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":95,
+        "toilet_lokalitet":"Festival;Islands Brygge 20 (Festivals)",
+        "vejnavn_husnummer":"Islands Brygge 20",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Indlejet;Midlertidigt toilet – Indlejet",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Midlertidigt åbent",
+        "status":"IDrift;TagetPermanentUdAfDrift",
+        "grafitti_ansvarlig":null,
+        "driftsbydel":"Amager Vest",
+        "utm_x":724824.1948812548,
+        "utm_y":6174703.800248072,
+        "longitude":12.574894129816892,
+        "latitude":55.66601494298826
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.96",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.5790624,
+          55.69058372
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":96,
+        "toilet_lokalitet":"Østre Anlæg Legeplads",
+        "vejnavn_husnummer":"Stockholmsgade 24",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":724945.0665172392,
+        "utm_y":6177449.671599146,
+        "longitude":12.579062404020382,
+        "latitude":55.690583683105466
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.97",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.54916227,
+          55.70354435
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":97,
+        "toilet_lokalitet":"Skjolds Plads",
+        "vejnavn_husnummer":"Skjolds Plads 1",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Københavner",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":722992.8643785979,
+        "utm_y":6178794.434782309,
+        "longitude":12.549162273556766,
+        "latitude":55.703544316372
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.98",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.52850308,
+          55.66121896
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":98,
+        "toilet_lokalitet":"Vester Kirkegård - Nordre Kapel",
+        "vejnavn_husnummer":"Vestre Kirkegårds Allé 15B, Nordre Kapel",
+        "postnummer":"2450 København SV",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Vesterbro-Kgs.Enghave",
+        "utm_x":721935.184253446,
+        "utm_y":6174020.949175552,
+        "longitude":12.528503079388678,
+        "latitude":55.66121892637202
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.99",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.53765301,
+          55.70084095
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":99,
+        "toilet_lokalitet":"Nørrebro Station",
+        "vejnavn_husnummer":"Frederikssundsvej 1A",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Københavner",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Bispebjerg",
+        "utm_x":722285.43252359,
+        "utm_y":6178456.802873291,
+        "longitude":12.537653012306352,
+        "latitude":55.700840921839216
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.100",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57263192,
+          55.67760811
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":100,
+        "toilet_lokalitet":"V. Domhuset",
+        "vejnavn_husnummer":"Nytorv 29B",
+        "postnummer":"1450 København K",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Cph Urban (sæson eller helårs)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":724615.5154018463,
+        "utm_y":6175985.767534027,
+        "longitude":12.57263191965881,
+        "latitude":55.67760807318189
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.101",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.54146042,
+          55.69680487
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":101,
+        "toilet_lokalitet":"Nørrebroparken",
+        "vejnavn_husnummer":"Hillerødgade 13B",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Standardtoilet Zenzo",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift;MidlertidigUdeAfDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":722547.505430693,
+        "utm_y":6178020.152294671,
+        "longitude":12.541460421954795,
+        "latitude":55.6968048389144
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.102",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56504649,
+          55.70493106
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":102,
+        "toilet_lokalitet":"Fælledparken, \"Dansepladsen\"",
+        "vejnavn_husnummer":"Edel Sauntes Allé 23",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":723982.4576690134,
+        "utm_y":6178999.883793493,
+        "longitude":12.56504649011595,
+        "latitude":55.704931028375235
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.103",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56269888,
+          55.68738446
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":103,
+        "toilet_lokalitet":"Dronning Louises Bro",
+        "vejnavn_husnummer":"Sortedam Dossering 2",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Toiletvogn/pavillon",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":723935.3976017628,
+        "utm_y":6177040.883965343,
+        "longitude":12.562698884375571,
+        "latitude":55.687384425565405
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.104",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.53798638,
+          55.65423681
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":104,
+        "toilet_lokalitet":"Hørdumsgade",
+        "vejnavn_husnummer":"Enghavevej 198",
+        "postnummer":"1500 København V",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Toiletvogn/pavillon",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Vesterbro-Kgs.Enghave",
+        "utm_x":722571.0286045074,
+        "utm_y":6173274.834390061,
+        "longitude":12.537986375335604,
+        "latitude":55.6542367794737
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.105",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.58913654,
+          55.68526725
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":105,
+        "toilet_lokalitet":"Marmorkirken",
+        "vejnavn_husnummer":"Frederiksgade 3",
+        "postnummer":"1265 København K",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Københavner",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":725608.559437579,
+        "utm_y":6176891.159895105,
+        "longitude":12.589136544137315,
+        "latitude":55.68526721743316
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.106",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56806023,
+          55.71015081
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":106,
+        "toilet_lokalitet":"Tåsinge Plads",
+        "vejnavn_husnummer":"Tåsingegade 43A",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Standardtoilet Zenzo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift;TagetPermanentUdAfDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":724141.8083306157,
+        "utm_y":6179590.133534472,
+        "longitude":12.568060232176059,
+        "latitude":55.710150776391444
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.107",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57624451,
+          55.70960165
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":107,
+        "toilet_lokalitet":"Poul Henningsens Plads",
+        "vejnavn_husnummer":"Reersøgade 5",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Københavner",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":724658.8454970798,
+        "utm_y":6179555.564593836,
+        "longitude":12.576244505779195,
+        "latitude":55.709601617341846
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.108",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.55295615,
+          55.66793157
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":108,
+        "toilet_lokalitet":"Estlandsgade 2",
+        "vejnavn_husnummer":"Estlandsgade 2",
+        "postnummer":"1724 København V",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"ECO toilet",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Midlertidigt åbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Vesterbro-Kgs.Enghave (udl.)",
+        "utm_x":723434.2384072237,
+        "utm_y":6174846.026529089,
+        "longitude":12.552956152044178,
+        "latitude":55.66793153732108
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.109",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56458603,
+          55.67587093
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":109,
+        "toilet_lokalitet":"Axeltorv ved Cirkusbygningen",
+        "vejnavn_husnummer":"Jernbanegade 10",
+        "postnummer":"1608 København V",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"AFA søjle",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"MidlertidigUdeAfDrift",
+        "grafitti_ansvarlig":"AFA JC Decaux",
+        "driftsbydel":"Indre By",
+        "utm_x":724119.8384279214,
+        "utm_y":6175766.529146242,
+        "longitude":12.564586026748044,
+        "latitude":55.675870898675
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.110",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.5565455,
+          55.65406783
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":110,
+        "toilet_lokalitet":"Enghave Brygge metrotoilet",
+        "vejnavn_husnummer":"Bertha von Suttners Vej 3",
+        "postnummer":"2450 København SV",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Standardtoilet Zenzo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Vesterbro-Kgs.Enghave (udl.)",
+        "utm_x":723738.9836234134,
+        "utm_y":6173315.771000058,
+        "longitude":12.556545496261158,
+        "latitude":55.654067797186116
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.111",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.55895323,
+          55.67464032
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":111,
+        "toilet_lokalitet":"Handicaptoilet forbeholdt borgere med svære handicap",
+        "vejnavn_husnummer":"Vester Søgade 2A",
+        "postnummer":"1601 København V",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Standardtoilet Zenzo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"MidlertidigUdeAfDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":723772.8778832064,
+        "utm_y":6175611.47237127,
+        "longitude":12.55895323083109,
+        "latitude":55.674640291904545
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.112",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56507032,
+          55.71446144
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":112,
+        "toilet_lokalitet":"Kildevældsparken",
+        "vejnavn_husnummer":"Vognmandsmarken 69",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":723929.3966517391,
+        "utm_y":6180059.865214876,
+        "longitude":12.565070323665399,
+        "latitude":55.714461405248215
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.113",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.51714201,
+          55.65252909
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":113,
+        "toilet_lokalitet":"København Syd metrotoilet",
+        "vejnavn_husnummer":"Carl Jacobsens Vej 17W",
+        "postnummer":"2500 Valby",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Standardtoilet Zenzo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Valby",
+        "utm_x":721269.9705505131,
+        "utm_y":6173018.198822317,
+        "longitude":12.517142011162482,
+        "latitude":55.652529053907436
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.114",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.59643809,
+          55.70777112
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":114,
+        "toilet_lokalitet":";Hamborg Plads",
+        "vejnavn_husnummer":"Hamborg plads 1; Hamborg Plads 1",
+        "postnummer":"2150 Nordhavn",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Standardtoilet Zenzo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":725937.3652218471,
+        "utm_y":6179417.644546148,
+        "longitude":12.596438087679783,
+        "latitude":55.707771084117304
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.115",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57294601,
+          55.68391737
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":115,
+        "toilet_lokalitet":"Nørreport v. Netto",
+        "vejnavn_husnummer":"Nørre Voldgade 23A",
+        "postnummer":"1358 København K",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":724599.067651045,
+        "utm_y":6176688.454591706,
+        "longitude":12.572946005821088,
+        "latitude":55.683917333785104
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.116",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56847781,
+          55.67648466
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":116,
+        "toilet_lokalitet":"Rådhuspladsen tæt ved metro",
+        "vejnavn_husnummer":"Rådhuspladsen tæt ved metro",
+        "postnummer":"1550 København V",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Mobilt toilet – Eget af TMF",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Midlertidigt åbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":null,
+        "driftsbydel":"Indre By",
+        "utm_x":724360.8999844482,
+        "utm_y":6175847.373163918,
+        "longitude":12.56847781205157,
+        "latitude":55.676484627990874
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.117",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.59179427,
+          55.67199819
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":117,
+        "toilet_lokalitet":"Christianshavns Torv",
+        "vejnavn_husnummer":"Torvegade 48",
+        "postnummer":"1400 København K",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":725852.0427176717,
+        "utm_y":6175424.1384914275,
+        "longitude":12.591794271315411,
+        "latitude":55.6719981548296
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.118",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.58210852,
+          55.67662549
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":118,
+        "toilet_lokalitet":"Christiansborg Slotsplads, Holmensbro",
+        "vejnavn_husnummer":"Christiansborg Slotsplads 2",
+        "postnummer":"1218 København K",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"AFA søjle",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"AFA JC Decaux",
+        "driftsbydel":"Indre By",
+        "utm_x":725216.6871262226,
+        "utm_y":6175907.236767173,
+        "longitude":12.582108516639769,
+        "latitude":55.676625455259014
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.119",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57158316,
+          55.67814488
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":119,
+        "toilet_lokalitet":"Gammel Torv",
+        "vejnavn_husnummer":"Gammeltorv 22F",
+        "postnummer":"1457 København K",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"AFA søjle",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"AFA JC Decaux",
+        "driftsbydel":"Indre By",
+        "utm_x":724546.5327469476,
+        "utm_y":6176042.06536784,
+        "longitude":12.571583162831887,
+        "latitude":55.678144843852614
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.120",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57544099,
+          55.67998706
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":120,
+        "toilet_lokalitet":"Gråbrødre Torv",
+        "vejnavn_husnummer":"Kejsergade 6",
+        "postnummer":"1155 København K",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift;MidlertidigUdeAfDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen;TMF (Kontrakter)",
+        "driftsbydel":"Indre By",
+        "utm_x":724778.3881161654,
+        "utm_y":6176259.4432251975,
+        "longitude":12.575440989702184,
+        "latitude":55.679987030712255
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.121",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.55308748,
+          55.68948803
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":121,
+        "toilet_lokalitet":"Assistents Kirkegård",
+        "vejnavn_husnummer":"Kapelvej 2",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":723319.552144815,
+        "utm_y":6177243.818422306,
+        "longitude":12.553087482506783,
+        "latitude":55.68948800001337
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.122",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.59805091,
+          55.65273503
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":122,
+        "toilet_lokalitet":"Remiseparken, Bonderen & Byggeren",
+        "vejnavn_husnummer":"Peder Lykkes Vej 71",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Vest",
+        "utm_x":726356.5038684006,
+        "utm_y":6173302.259513355,
+        "longitude":12.598050906809044,
+        "latitude":55.65273499272415
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.123",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57951558,
+          55.66475886
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":123,
+        "toilet_lokalitet":"Gunløgsgade",
+        "vejnavn_husnummer":"Gunløgsgade 26A",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Vest",
+        "utm_x":725121.9150855314,
+        "utm_y":6174579.101744105,
+        "longitude":12.579515579021189,
+        "latitude":55.664758828356014
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.124",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56128533,
+          55.69137218
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":124,
+        "toilet_lokalitet":"Sankt Hans Torv",
+        "vejnavn_husnummer":"Nørre Allé 2",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":723823.7910614868,
+        "utm_y":6177479.805101169,
+        "longitude":12.561285326091621,
+        "latitude":55.691372146938775
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.125",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57547549,
+          55.68941768
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":125,
+        "toilet_lokalitet":"Ved Sølvtorvet",
+        "vejnavn_husnummer":"Stockholmsgade 2",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Pissoir",
+        "toilettype_design":"Pissoir (fritstående)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":724726.4279004595,
+        "utm_y":6177308.357765959,
+        "longitude":12.575475489899803,
+        "latitude":55.6894176466945
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.126",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.55897079,
+          55.67480731
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":126,
+        "toilet_lokalitet":"Vester Søgade, o.f. Planetariet",
+        "vejnavn_husnummer":"Vester Søgade 2",
+        "postnummer":"1601 København V",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"AFA toilet",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"AFA JC Decaux",
+        "driftsbydel":"Indre By",
+        "utm_x":723773.0273299547,
+        "utm_y":6175630.099807589,
+        "longitude":12.55897078667941,
+        "latitude":55.67480727544222
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.127",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.55406806,
+          55.67045436
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":127,
+        "toilet_lokalitet":"Skydebanehaven, legeplads",
+        "vejnavn_husnummer":"Absalonsgade 12",
+        "postnummer":"1658 København V",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Vesterbro-Kgs.Enghave (udl.)",
+        "utm_x":723489.7394885037,
+        "utm_y":6175130.178738958,
+        "longitude":12.554068055925118,
+        "latitude":55.67045432981238
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.128",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.59268569,
+          55.67001928
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":128,
+        "toilet_lokalitet":"Christianshavns Vold, Elefantens bastion",
+        "vejnavn_husnummer":"Christianshavns Voldgade 36B",
+        "postnummer":"1424 København K",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":725919.479163222,
+        "utm_y":6175206.96576138,
+        "longitude":12.592685686646785,
+        "latitude":55.670019248870396
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.129",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.5416987,
+          55.66792251
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":129,
+        "toilet_lokalitet":"Enghaveparken, legeplads",
+        "vejnavn_husnummer":"Ejderstedgade 1",
+        "postnummer":"1761 København V",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Vesterbro-Kgs.Enghave (udl.)",
+        "utm_x":722726.6730949618,
+        "utm_y":6174808.795088937,
+        "longitude":12.541698698274308,
+        "latitude":55.667922480775566
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.130",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56461965,
+          55.68049442
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":130,
+        "toilet_lokalitet":"Ørstedsparken, legeplads",
+        "vejnavn_husnummer":"Nørre Farimagsgade 2",
+        "postnummer":"1364 København K",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":724095.4973879321,
+        "utm_y":6176280.830068798,
+        "longitude":12.564619654200731,
+        "latitude":55.68049439134799
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.131",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57072912,
+          55.70491422
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":131,
+        "toilet_lokalitet":"Fælledparken, Trafiklegepladsen",
+        "vejnavn_husnummer":"Gunnar Nu Hansens Plads 10",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":724339.4101144562,
+        "utm_y":6179016.39277622,
+        "longitude":12.57072912131101,
+        "latitude":55.70491418328364
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.132",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56840793,
+          55.67633805
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":132,
+        "toilet_lokalitet":"Rådhuspladsen 5-7",
+        "vejnavn_husnummer":"Rådhuspladsen 5",
+        "postnummer":"1550 København V",
+        "toilet_betegnelse":"Toilet med personale og handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen;TMF (Kontrakter)",
+        "driftsbydel":"Indre By",
+        "utm_x":724357.3480966659,
+        "utm_y":6175830.842197125,
+        "longitude":12.568407930068814,
+        "latitude":55.67633801901918
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.133",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57130978,
+          55.68304784
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":133,
+        "toilet_lokalitet":"Nørreport station",
+        "vejnavn_husnummer":"Nørre Voldgade 15A",
+        "postnummer":"1358 København K",
+        "toilet_betegnelse":"Toilet med personale og handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent;Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift;TagetPermanentUdAfDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen;TMF (Kontrakter)",
+        "driftsbydel":"Indre By",
+        "utm_x":724501.2465582123,
+        "utm_y":6176586.451419101,
+        "longitude":12.571309784344809,
+        "latitude":55.68304780679868
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.134",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.52023842,
+          55.6418457
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":134,
+        "toilet_lokalitet":"Valbyparken, ved restaurant",
+        "vejnavn_husnummer":"Hammelstrupvej 98",
+        "postnummer":"2450 København SV",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Valby",
+        "utm_x":721525.0249455073,
+        "utm_y":6171839.936321961,
+        "longitude":12.520238416201481,
+        "latitude":55.641845668881146
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.135",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.57845101,
+          55.66838887
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":135,
+        "toilet_lokalitet":"Islands Brygge, Havneparken",
+        "vejnavn_husnummer":"Islands Brygge 12",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Vest",
+        "utm_x":725034.1467943202,
+        "utm_y":6174979.346675584,
+        "longitude":12.578451014008,
+        "latitude":55.66838883710412
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.136",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.61716235,
+          55.66174682
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":136,
+        "toilet_lokalitet":"Lergravsparken, ved Metro",
+        "vejnavn_husnummer":"Østrigsgade 67",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Øst",
+        "utm_x":727505.9306860897,
+        "utm_y":6174367.020870544,
+        "longitude":12.61716234816708,
+        "latitude":55.66174679052628
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.137",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.60216108,
+          55.65063984
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":137,
+        "toilet_lokalitet":"Englandsparken/Sundbyvesterparken",
+        "vejnavn_husnummer":"Englandsvej 59B",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Vest",
+        "utm_x":726627.0651591145,
+        "utm_y":6173082.677195983,
+        "longitude":12.602161080165395,
+        "latitude":55.650639805455526
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.138",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.47840436,
+          55.65812043
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":138,
+        "toilet_lokalitet":"Vigerslevparken Syd",
+        "vejnavn_husnummer":"Engdals allé 20",
+        "postnummer":"2500 Valby",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen;TMF (Kontrakter)",
+        "driftsbydel":"Valby",
+        "utm_x":718802.7988500556,
+        "utm_y":6173517.115191167,
+        "longitude":12.478404355391252,
+        "latitude":55.65812039396734
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.139",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.51971874,
+          55.64061511
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":139,
+        "toilet_lokalitet":"Valbyparken, Rosenhaven",
+        "vejnavn_husnummer":"Hammelstrupvej 114",
+        "postnummer":"2450 København SV",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent;Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Valby",
+        "utm_x":721499.2867069052,
+        "utm_y":6171701.416524745,
+        "longitude":12.519718744240107,
+        "latitude":55.640615074563605
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.140",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.48029297,
+          55.66973354
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":140,
+        "toilet_lokalitet":"Vigerslevparken Nord",
+        "vejnavn_husnummer":"Engdraget 24",
+        "postnummer":"2500 Valby",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Valby",
+        "utm_x":718856.6832713711,
+        "utm_y":6174814.646190021,
+        "longitude":12.480292968142175,
+        "latitude":55.66973351053031
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.141",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.61111642,
+          55.66104634
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":141,
+        "toilet_lokalitet":"Rødegårdsparken",
+        "vejnavn_husnummer":"Rødegård 8A",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen;TMF (Kontrakter)",
+        "driftsbydel":"Amager Øst",
+        "utm_x":727129.9078239955,
+        "utm_y":6174269.296164222,
+        "longitude":12.61111642425492,
+        "latitude":55.66104630379751
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.142",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.53113725,
+          55.66175538
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":142,
+        "toilet_lokalitet":"Vestre Kirkegårds Allé, Hovedindgang",
+        "vejnavn_husnummer":"Vestre Kirkegårds Allé 15A",
+        "postnummer":"2450 København SV",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Vesterbro-Kgs.Enghave",
+        "utm_x":722097.7515983488,
+        "utm_y":6174089.041962876,
+        "longitude":12.531137247911463,
+        "latitude":55.66175534762694
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.143",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.61358748,
+          55.65903259
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":143,
+        "toilet_lokalitet":"Bredegrund legeplads",
+        "vejnavn_husnummer":"Bredegrund 8",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Øst",
+        "utm_x":727296.933691338,
+        "utm_y":6174053.443888027,
+        "longitude":12.613587477079466,
+        "latitude":55.659032553337056
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.144",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.6185854,
+          55.66252317
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":144,
+        "toilet_lokalitet":"Lergravsparken, Legeplads",
+        "vejnavn_husnummer":"Lergravsvej 16",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Øst",
+        "utm_x":727590.8836350351,
+        "utm_y":6174458.029304476,
+        "longitude":12.618585402617363,
+        "latitude":55.66252313691972
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.145",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.61861682,
+          55.65390062
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":145,
+        "toilet_lokalitet":"Legepladsen Elba i Filipsparken",
+        "vejnavn_husnummer":"Parmagade 45",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Øst",
+        "utm_x":727642.9308346342,
+        "utm_y":6173499.216126744,
+        "longitude":12.618616821862101,
+        "latitude":55.65390058853368
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.146",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.59719912,
+          55.65268317
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":146,
+        "toilet_lokalitet":"Remiseparken, Byggeren",
+        "vejnavn_husnummer":"Peder Lykkes Vej 73",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Vest",
+        "utm_x":726303.2424974731,
+        "utm_y":6173293.71188296,
+        "longitude":12.597199124863744,
+        "latitude":55.65268313390425
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.147",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.49912793,
+          55.70552648
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":147,
+        "toilet_lokalitet":"Brønshøj Kirkevej / Brønshøj kirkegård",
+        "vejnavn_husnummer":"Brønshøj Kirkevej 8",
+        "postnummer":"2700 Brønshøj",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Brønshøj-Husum (udl.)",
+        "utm_x":719839.523421882,
+        "utm_y":6178855.010710433,
+        "longitude":12.499127931821537,
+        "latitude":55.70552645014025
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.148",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.47906878,
+          55.71691204
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":148,
+        "toilet_lokalitet":"Bystævnet/Vestvolden",
+        "vejnavn_husnummer":"Kobbelvænget 15B",
+        "postnummer":"2700 Brønshøj",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Brønshøj-Husum (udl.)",
+        "utm_x":718516.2312299047,
+        "utm_y":6180057.825285694,
+        "longitude":12.47906878283606,
+        "latitude":55.71691200249194
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.149",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.64727322,
+          55.64843902
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":149,
+        "toilet_lokalitet":"Strandstation 5",
+        "vejnavn_husnummer":"Havkajakvej 14",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent;Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Øst",
+        "utm_x":729476.7535122568,
+        "utm_y":6172986.294374804,
+        "longitude":12.64727322497601,
+        "latitude":55.648438990001544
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.150",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.519763,
+          55.64469046
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":150,
+        "toilet_lokalitet":"Naturlegepladsen i Valbyparken",
+        "vejnavn_husnummer":"Hammelstrupvej  41",
+        "postnummer":"2450 København SV",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Valby",
+        "utm_x":721479.0558276626,
+        "utm_y":6172154.795984261,
+        "longitude":12.519762996122306,
+        "latitude":55.644690425539416
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.151",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.64934403,
+          55.65457895
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":151,
+        "toilet_lokalitet":"Strandstation 3",
+        "vejnavn_husnummer":"Amager Strand Promenaden 1",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent;Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Øst",
+        "utm_x":729571.0233961684,
+        "utm_y":6173675.963768796,
+        "longitude":12.649344027476277,
+        "latitude":55.65457891647855
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.152",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.63862152,
+          55.66302367
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":152,
+        "toilet_lokalitet":"Strandstation 1",
+        "vejnavn_husnummer":"Øresundsstien 5",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent;Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Øst",
+        "utm_x":728847.5167604574,
+        "utm_y":6174579.64577792,
+        "longitude":12.638621517741356,
+        "latitude":55.663023637909234
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.153",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.64292879,
+          55.6583288
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":153,
+        "toilet_lokalitet":"Strandstation 2",
+        "vejnavn_husnummer":"Kilometerbroen 3",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent;Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Øst",
+        "utm_x":729145.7331797911,
+        "utm_y":6174071.758866321,
+        "longitude":12.642928787425507,
+        "latitude":55.65832876450489
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.154",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.64398399,
+          55.64624045
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":154,
+        "toilet_lokalitet":"Femøren",
+        "vejnavn_husnummer":"Amager Strandvej 275",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Øst",
+        "utm_x":729282.7606340009,
+        "utm_y":6172730.912556306,
+        "longitude":12.64398399362388,
+        "latitude":55.64624041739519
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.155",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.59264417,
+          55.67000452
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":155,
+        "toilet_lokalitet":"Christianshavns Vold, Elefantens bastion",
+        "vejnavn_husnummer":"Christianshavns Voldgade 36A",
+        "postnummer":"1424 København K",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":725916.9545145169,
+        "utm_y":6175205.189173684,
+        "longitude":12.592644165300051,
+        "latitude":55.67000449074713
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.156",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.51029671,
+          55.70732016
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":156,
+        "toilet_lokalitet":"Brønshøjparken",
+        "vejnavn_husnummer":"Hyrdevangen 1",
+        "postnummer":"2700 Brønshøj",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Brønshøj-Husum (udl.)",
+        "utm_x":720530.793129487,
+        "utm_y":6179089.984233513,
+        "longitude":12.510296705166981,
+        "latitude":55.707320128883794
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.157",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.46802338,
+          55.68245007
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":157,
+        "toilet_lokalitet":"Damhusdæmningen, Engen",
+        "vejnavn_husnummer":"Damhusdæmningen 14",
+        "postnummer":"2720 Vanløse",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Vanløse",
+        "utm_x":718014.6751563704,
+        "utm_y":6176190.277238339,
+        "longitude":12.468023384676474,
+        "latitude":55.68245004083941
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.158",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.47328565,
+          55.68158009
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":158,
+        "toilet_lokalitet":"V. Kiosk",
+        "vejnavn_husnummer":"Damhusdæmningen 2A",
+        "postnummer":"2720 Vanløse",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Vanløse",
+        "utm_x":718350.1863443798,
+        "utm_y":6176110.083872424,
+        "longitude":12.473285653684789,
+        "latitude":55.681580060208425
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.159",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.54799433,
+          55.68863996
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":159,
+        "toilet_lokalitet":"Hans Tavsens Park",
+        "vejnavn_husnummer":"Hans Tavsens Gade 20",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent;Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":723004.4162489362,
+        "utm_y":6177133.101859005,
+        "longitude":12.547994334700878,
+        "latitude":55.6886399235397
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.160",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.54286566,
+          55.70969552
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":160,
+        "toilet_lokalitet":"Lersøparken",
+        "vejnavn_husnummer":"Bispebjerg Bakke 12",
+        "postnummer":"2400 København NV",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Bispebjerg",
+        "utm_x":722562.4421544871,
+        "utm_y":6179458.288102781,
+        "longitude":12.54286565898241,
+        "latitude":55.70969548317377
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.161",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56359017,
+          55.72197922
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":161,
+        "toilet_lokalitet":"Ryvangens Naturpark",
+        "vejnavn_husnummer":"Rymarksvej 75B",
+        "postnummer":"2900 Hellerup",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":723793.4462349376,
+        "utm_y":6180891.161215561,
+        "longitude":12.563590171855092,
+        "latitude":55.72197918999454
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.162",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.51135642,
+          55.69966122
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":162,
+        "toilet_lokalitet":"Rødkildeparken",
+        "vejnavn_husnummer":"Rødkildevej 15",
+        "postnummer":"2400 København NV",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift;MidlertidigUdeAfDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Vanløse",
+        "utm_x":720640.5180662775,
+        "utm_y":6178241.563590888,
+        "longitude":12.511356419947981,
+        "latitude":55.699661185809155
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.163",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.58302537,
+          55.71952862
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":163,
+        "toilet_lokalitet":"Svanemølle Strandpark",
+        "vejnavn_husnummer":"Strandpromenaden 30",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":725027.4967408765,
+        "utm_y":6180681.573464171,
+        "longitude":12.583025366024705,
+        "latitude":55.71952858355468
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.164",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.47501048,
+          55.69624701
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":164,
+        "toilet_lokalitet":"Nørager Plads, legeplads",
+        "vejnavn_husnummer":"Nørager Plads 23",
+        "postnummer":"2720 Vanløse",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Vanløse",
+        "utm_x":718376.7513442406,
+        "utm_y":6177746.728250088,
+        "longitude":12.475010476717092,
+        "latitude":55.69624697579976
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.165",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.53102504,
+          55.71424755
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":165,
+        "toilet_lokalitet":"Bispebjerg Kirkegård",
+        "vejnavn_husnummer":"Frederiksborgvej 123",
+        "postnummer":"2400 København NV",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Bispebjerg",
+        "utm_x":721793.150768104,
+        "utm_y":6179926.574480458,
+        "longitude":12.5310250442116,
+        "latitude":55.71424751930317
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.166",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.49883117,
+          55.70418957
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":166,
+        "toilet_lokalitet":"Brønshøj Torv",
+        "vejnavn_husnummer":"Krabbesholmvej 2",
+        "postnummer":"2700 Brønshøj",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Brønshøj-Husum (udl.)",
+        "utm_x":719828.3978843128,
+        "utm_y":6178705.383292724,
+        "longitude":12.498831172085087,
+        "latitude":55.7041895394815
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.167",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.47170694,
+          55.71172321
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":167,
+        "toilet_lokalitet":"Husum Torv",
+        "vejnavn_husnummer":"Husum Torv 2",
+        "postnummer":"2700 Brønshøj",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Brønshøj-Husum (udl.)",
+        "utm_x":718082.976378681,
+        "utm_y":6179457.545223782,
+        "longitude":12.47170693590664,
+        "latitude":55.711723177853585
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.168",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.54572274,
+          55.68976373
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":168,
+        "toilet_lokalitet":"Hans Tavsens Park Klub",
+        "vejnavn_husnummer":"Hans Tavsens Gade 40",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":722855.308320943,
+        "utm_y":6177250.774862299,
+        "longitude":12.545722743206408,
+        "latitude":55.68976369944985
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.169",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.53617344,
+          55.69552721
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":169,
+        "toilet_lokalitet":"Bispeengen",
+        "vejnavn_husnummer":"Hillerødgade  23B",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":722222.6764450755,
+        "utm_y":6177861.092530657,
+        "longitude":12.536173445030142,
+        "latitude":55.695527172536934
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.170",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.47098843,
+          55.70423759
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":170,
+        "toilet_lokalitet":"Husumparken",
+        "vejnavn_husnummer":"Nordrupvej  16",
+        "postnummer":"2700 Brønshøj",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Brønshøj-Husum (udl.)",
+        "utm_x":718079.5812601466,
+        "utm_y":6178622.753451298,
+        "longitude":12.470988429505239,
+        "latitude":55.70423755979311
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.171",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.54978015,
+          55.68832858
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":171,
+        "toilet_lokalitet":"HTØ ved Blågårdsskolen",
+        "vejnavn_husnummer":"Hans Tavsens Gade 10",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":723118.3832131557,
+        "utm_y":6177104.220112993,
+        "longitude":12.549780149488186,
+        "latitude":55.688328549658905
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.172",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.56502005,
+          55.714571
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":172,
+        "toilet_lokalitet":"Kildevældsparken",
+        "vejnavn_husnummer":"Vognmandsmarken 69",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Østerbro",
+        "utm_x":723925.6132081257,
+        "utm_y":6180071.887700787,
+        "longitude":12.565020051519072,
+        "latitude":55.71457096906929
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.173",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.59478288,
+          55.69456737
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":173,
+        "toilet_lokalitet":"Ved østlige ende af bro",
+        "vejnavn_husnummer":"Langelinie 1",
+        "postnummer":"2100 København Ø",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Indre By",
+        "utm_x":725909.6401436649,
+        "utm_y":6177943.835630597,
+        "longitude":12.594782881958219,
+        "latitude":55.694567337476
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.174",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.5420197,
+          55.69413974
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":174,
+        "toilet_lokalitet":"Nørrebroparken, legeplads",
+        "vejnavn_husnummer":"Stefansgade  30",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":722597.7898800806,
+        "utm_y":6177725.548353259,
+        "longitude":12.542019699228595,
+        "latitude":55.694139709551266
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.175",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.559995,
+          55.68596887
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":175,
+        "toilet_lokalitet":"Legepladsen Wesselsgade",
+        "vejnavn_husnummer":"Wesselsgade 12",
+        "postnummer":"2200 København N",
+        "toilet_betegnelse":"Toilet",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Nej",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Nørrebro",
+        "utm_x":723773.6130365495,
+        "utm_y":6176874.719638067,
+        "longitude":12.559994997309124,
+        "latitude":55.68596884177276
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.176",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.52257733,
+          55.70548746
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":176,
+        "toilet_lokalitet":"Hulgårds Plads",
+        "vejnavn_husnummer":"Hulgårds Plads 4",
+        "postnummer":"2400 København NV",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Københavner",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"TMF (Kontrakter)",
+        "driftsbydel":"Bispebjerg",
+        "utm_x":721312.3222144945,
+        "utm_y":6178925.310826199,
+        "longitude":12.522577334790435,
+        "latitude":55.70548742444699
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.177",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.61212648,
+          55.65183177
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":177,
+        "toilet_lokalitet":"Sundbyøster Plads",
+        "vejnavn_husnummer":"Amagerbrogade 185",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Danfo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Øst",
+        "utm_x":727246.8199188865,
+        "utm_y":6173247.848660058,
+        "longitude":12.612126482180877,
+        "latitude":55.651831740689424
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.178",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.63217029,
+          55.66640459
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":178,
+        "toilet_lokalitet":"Søstjernen/Søanemonestien, Hundestrandens toilet",
+        "vejnavn_husnummer":"Amager Strandvej 11",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Bygning (park, strand, legeplads, kirkegård)",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Natlukket",
+        "aabningsperiode":"Vinterlukket",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Øst",
+        "utm_x":728422.262718384,
+        "utm_y":6174934.360368952,
+        "longitude":12.632170288405465,
+        "latitude":55.666404552585256
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"toilet_puma_agg_tmf_kk.179",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.63657218,
+          55.65762888
+        ]
+      },
+      "geometry_name":"wkb_geometry",
+      "properties":{
+        "id":179,
+        "toilet_lokalitet":"",
+        "vejnavn_husnummer":"Amager Strandvej 125",
+        "postnummer":"2300 København S",
+        "toilet_betegnelse":"Toilet med handicapadgang",
+        "toilettype_design":"Standardtoilet Zenzo",
+        "handicapadgang":"Ja",
+        "aabningstid_doegn":"Døgnåbent",
+        "aabningsperiode":"Helårsåbent",
+        "status":"IDrift",
+        "grafitti_ansvarlig":"Renhold City Middelalderbyen",
+        "driftsbydel":"Amager Øst",
+        "utm_x":728750.173240457,
+        "utm_y":6173972.9312248835,
+        "longitude":12.636572179380899,
+        "latitude":55.65762885099315
+      }
+    }
+  ],
+  "totalFeatures":179,
+  "numberMatched":179,
+  "numberReturned":179,
+  "timeStamp":"2025-08-19T11:05:07.617Z",
+  "crs":{
+    "type":"name",
+    "properties":{
+      "name":"urn:ogc:def:crs:EPSG::4326"
+    }
+  }
+}

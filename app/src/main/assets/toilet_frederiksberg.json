@@ -1,0 +1,672 @@
+{
+  "success":true,
+  "forStore":[
+    {
+      "name":"id",
+      "type":"int4"
+    },
+    {
+      "name":"ogr_geometry",
+      "type":"geometry"
+    },
+    {
+      "name":"navn",
+      "type":"varchar"
+    },
+    {
+      "name":"ejer",
+      "type":"varchar"
+    },
+    {
+      "name":"handikapvenlig",
+      "type":"varchar"
+    },
+    {
+      "name":"åbningstid",
+      "type":"varchar"
+    },
+    {
+      "name":"adresse",
+      "type":"varchar"
+    },
+    {
+      "name":"nr",
+      "type":"int4"
+    },
+    {
+      "name":"betaling",
+      "type":"varchar"
+    }
+  ],
+  "forGrid":[
+    {
+      "header":"id",
+      "dataIndex":"id",
+      "type":"int4",
+      "typeObj":null
+    },
+    {
+      "header":"ogr_geometry",
+      "dataIndex":"ogr_geometry",
+      "type":"geometry",
+      "typeObj":null
+    },
+    {
+      "header":"navn",
+      "dataIndex":"navn",
+      "type":"varchar",
+      "typeObj":null
+    },
+    {
+      "header":"ejer",
+      "dataIndex":"ejer",
+      "type":"varchar",
+      "typeObj":null
+    },
+    {
+      "header":"handikapvenlig",
+      "dataIndex":"handikapvenlig",
+      "type":"varchar",
+      "typeObj":null
+    },
+    {
+      "header":"åbningstid",
+      "dataIndex":"åbningstid",
+      "type":"varchar",
+      "typeObj":null
+    },
+    {
+      "header":"adresse",
+      "dataIndex":"adresse",
+      "type":"varchar",
+      "typeObj":null
+    },
+    {
+      "header":"nr",
+      "dataIndex":"nr",
+      "type":"int4",
+      "typeObj":null
+    },
+    {
+      "header":"betaling",
+      "dataIndex":"betaling",
+      "type":"varchar",
+      "typeObj":null
+    }
+  ],
+  "type":"FeatureCollection",
+  "features":[
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.532471572,
+          55.677861528
+        ]
+      },
+      "properties":{
+        "id":1,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg Kommune",
+        "handikapvenlig":"ja",
+        "åbningstid":"Åben hele døgnet",
+        "adresse":"Frbg. Rådhus, Frederiksberg Bredegade fristå.toilet",
+        "nr":1,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.533363958,
+          55.674533984
+        ]
+      },
+      "properties":{
+        "id":2,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg Kommune",
+        "handikapvenlig":"ja",
+        "åbningstid":"Åben hele døgnet",
+        "adresse":"V_Frederiksberg Alle 69, fristå.toilet",
+        "nr":2,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.533822237,
+          55.681349333
+        ]
+      },
+      "properties":{
+        "id":3,
+        "navn":"Offentligt toilet",
+        "ejer":"Lægernes Pensionskasse",
+        "handikapvenlig":"nej",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"Frederiksberg Centeret",
+        "nr":3,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.523107478,
+          55.681818148
+        ]
+      },
+      "properties":{
+        "id":4,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg Kommune\/Metroselskabet",
+        "handikapvenlig":"ja",
+        "åbningstid":"Åben hele døgnet",
+        "adresse":"Fasanvejen Metro v. P. Andersens Vej, fritstå. toilet",
+        "nr":4,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.533168177,
+          55.686441004
+        ]
+      },
+      "properties":{
+        "id":5,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg Kommune",
+        "handikapvenlig":"ja",
+        "åbningstid":"Åben hele døgnet",
+        "adresse":"Aksel Møllers Have, ved Metronomen fristå.toilet",
+        "nr":5,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.52975497,
+          55.676141431
+        ]
+      },
+      "properties":{
+        "id":6,
+        "navn":"Offentligt toilet",
+        "ejer":"Bygningsstyrelsen",
+        "handikapvenlig":"nej",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"I Frederiksberg Have, ved Legeplads Runddelen",
+        "nr":6,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.531258359,
+          55.674617108
+        ]
+      },
+      "properties":{
+        "id":7,
+        "navn":"Offentligt toilet",
+        "ejer":"Styrelsen for Slotte og Kultur-eje",
+        "handikapvenlig":"nej",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"Frederiksberg Runddel 1",
+        "nr":7,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.533388648,
+          55.674446652
+        ]
+      },
+      "properties":{
+        "id":8,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg Kirkes Kordegnekontor",
+        "handikapvenlig":"ja",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"Frederiksberg Alle 59, Frederiksberg ældre Kirkegård v. Kirken",
+        "nr":8,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.51746937,
+          55.673977366
+        ]
+      },
+      "properties":{
+        "id":9,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg Kommune",
+        "handikapvenlig":"nej",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"Søndre Fasanvej 34, Solbjerg Kirkegård v. Søndre kapel",
+        "nr":10,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.522665026,
+          55.668363469
+        ]
+      },
+      "properties":{
+        "id":10,
+        "navn":"Offentligt toilet",
+        "ejer":"Bygningsstyrelsen",
+        "handikapvenlig":"nej",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"200m fra Cisternerne i Søndermarken",
+        "nr":11,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.512016779,
+          55.681595585
+        ]
+      },
+      "properties":{
+        "id":11,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg Kommune",
+        "handikapvenlig":"ja",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"Lindevangsparken, Finsensvej 39D",
+        "nr":12,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.525701404,
+          55.671888743
+        ]
+      },
+      "properties":{
+        "id":13,
+        "navn":"Offentligt toilet",
+        "ejer":"Bygningsstyrelsen",
+        "handikapvenlig":"nej",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"Auditorium Frederiksberg Slot",
+        "nr":14,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.505652153,
+          55.682465012
+        ]
+      },
+      "properties":{
+        "id":14,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg Kommune",
+        "handikapvenlig":"nej",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"Den gule Villa, Dirch Passers Allé 2",
+        "nr":15,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.521699682,
+          55.684041603
+        ]
+      },
+      "properties":{
+        "id":15,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg Kommune",
+        "handikapvenlig":"nej",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"Kedelhallen Nyelandsvej 75B",
+        "nr":16,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.527838136,
+          55.678346494
+        ]
+      },
+      "properties":{
+        "id":16,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg Kommune",
+        "handikapvenlig":"nej",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"Møstings Hus, Andebakkestien 5",
+        "nr":17,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.537354124,
+          55.689037157
+        ]
+      },
+      "properties":{
+        "id":17,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg Idræts-Union",
+        "handikapvenlig":"nej",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"Mariendalshallen, Mariendalsvej 21C",
+        "nr":18,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.550795951,
+          55.679475626
+        ]
+      },
+      "properties":{
+        "id":18,
+        "navn":"Offentligt toilet",
+        "ejer":"E\/F Danasvej 30A",
+        "handikapvenlig":"nej",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"Biblioteket, Danasvej 30B",
+        "nr":19,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.497520561,
+          55.676005444
+        ]
+      },
+      "properties":{
+        "id":19,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg Idræts-Union",
+        "handikapvenlig":"nej",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"Frederiksberg Hallerne, Jens Jessens Vej",
+        "nr":20,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.545167412,
+          55.682298747
+        ]
+      },
+      "properties":{
+        "id":20,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg Kommune",
+        "handikapvenlig":"nej",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"Bülowshallen, Bülowsvej 34",
+        "nr":21,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.501275141,
+          55.671194829
+        ]
+      },
+      "properties":{
+        "id":21,
+        "navn":"Offentligt toilet",
+        "ejer":"E\/F Nordens Plads 2-16",
+        "handikapvenlig":"nej",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"Biblioteket, Nordens Plads 10 Domus Vista",
+        "nr":22,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.530277608,
+          55.680753954
+        ]
+      },
+      "properties":{
+        "id":22,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg Kommune",
+        "handikapvenlig":"nej",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"Hovedbibliotektet, Falkoner Plads 3",
+        "nr":23,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.531432413,
+          55.681189801
+        ]
+      },
+      "properties":{
+        "id":23,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg Kommune\/Metroselskabet",
+        "handikapvenlig":"ja",
+        "åbningstid":"Åben hele døgnet",
+        "adresse":"Frederiksberg Metro, fritstå. toilet",
+        "nr":24,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.540983827,
+          55.681722212
+        ]
+      },
+      "properties":{
+        "id":24,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg Kommune",
+        "handikapvenlig":"nej",
+        "åbningstid":"Åben hele døgnet",
+        "adresse":"Thorvaldsensvej, Den Grønne Sti\/v. KVL",
+        "nr":9,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.509676519,
+          55.672968534
+        ]
+      },
+      "properties":{
+        "id":25,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg Kommune",
+        "handikapvenlig":"ja",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"Roskildevej 54, Solbjerg Parkkirkegård",
+        "nr":25,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.509640474,
+          55.670944106
+        ]
+      },
+      "properties":{
+        "id":26,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg Kommune",
+        "handikapvenlig":"ja",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"Roskildevej 59, Søndermark Kirkegård , v. krematorium",
+        "nr":26,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.553555344,
+          55.681572108
+        ]
+      },
+      "properties":{
+        "id":27,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg Kommune ",
+        "handikapvenlig":"ja",
+        "åbningstid":"Åbent hele døgnet",
+        "adresse":"Rosenørns Alle, 1970 Frederiksberg C",
+        "nr":27,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.530048085,
+          55.685160782
+        ]
+      },
+      "properties":{
+        "id":28,
+        "navn":"Offentligt toilet",
+        "ejer":"Frederiksberg kommune",
+        "handikapvenlig":"ja",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"Langelands plads",
+        "nr":28,
+        "betaling":"nej"
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.527195288,
+          55.673373567
+        ]
+      },
+      "properties":{
+        "id":29,
+        "navn":"Offentligt toilet",
+        "ejer":"Bygningsstyrelsen",
+        "handikapvenlig":"ja",
+        "åbningstid":"Begrænsede åbningstider",
+        "adresse":"Frederiksberg Have, ved ishuset",
+        "nr":29,
+        "betaling":"nej"
+      }
+    }
+  ],
+  "_auth_check":{
+    "is_auth":false,
+    "auth_level":"Write",
+    "checked_relations":{
+      "byrum.toiletter_offentlige":"s"
+    },
+    "session":null,
+    "success":true,
+    "statement":"select *\nfrom byrum.toiletter_offentlige"
+  },
+  "_peak_memory_usage":"2005 KB",
+  "_execution_time":0.017
+}
